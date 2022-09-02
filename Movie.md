@@ -57,7 +57,7 @@ is building a new colony for future humans to inhabit. She removes her helmet an
 *[Wiki Page](https://en.wikipedia.org/wiki/Interstellar_(film))*
 
 
-*[IMbd](https://www.imdb.com/title/tt0816692/)*
+*[IMDb](https://www.imdb.com/title/tt0816692/)*
 
 ```java
 public class Interstellar{
