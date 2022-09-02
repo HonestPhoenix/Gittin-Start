@@ -61,7 +61,7 @@ is building a new colony for future humans to inhabit. She removes her helmet an
 
 
 	public class Interstellar{
-	public static void main(String[] args){
-	System.out.println("Interstellar, 2014")
-	}
+		public static void main(String[] args){
+			System.out.println("Interstellar, 2014")
+		}
 	}
