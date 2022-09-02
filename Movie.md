@@ -1,6 +1,6 @@
 # **Interstellar**
 
-Interstellar is a 2014 epic science fiction film co-written, 
+Interstellar is a **2014** epic science fiction film co-written, 
 directed and produced by Christopher Nolan. It stars Matthew McConaughey, 
 Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Matt Damon, 
 and Michael Caine. Set in a dystopian future where humanity is struggling 
@@ -48,7 +48,7 @@ up by a ranger orbiting Saturn. Due to the time slippage around Gargantua, almos
 though he has barely aged. He awakens on a cylindrical space station and reunites with Murph, now a celebrated scientist who helped humans 
 survive extinction. Nearing death, she advises Cooper not to wait around to see her die, and urges him to find Brand, who may have settled 
 on the other planet that could become their new home. Cooper steals a spacecraft and sets off on his new journey. On the other planet, Amelia 
-is building a new colony for future humans to inhabit. She removes her helmet and breathes the air, showing that the planet is capable of supporting life.
+is building a new colony for future humans to inhabit. She removes her helmet and **breathes** the air, showing that the planet is capable of supporting life.
 
 
 ![Poster](Interstellar.jpg)
