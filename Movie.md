@@ -15,7 +15,7 @@ He ignores his daughter, Murph, when she claims a ghost is communicating to her 
 but later finds dust particles forming an inexplicable pattern on Murph's bedroom floor. He investigates, 
 arriving at a secret NASA facility where Professor Brand explains that blight, dust storms and failing 
 crops have rendered humanity incapable of surviving on Earth. NASA's current, secret mission involves 
-engineering a way for humans to escape the Earth while finding another habitable planet. Brand claims to be 
+engineering a way for humans to *escape* the Earth while finding another habitable planet. Brand claims to be 
 working on a gravity equation to make this possible, and asks Cooper to pilot the mission. Cooper agrees, 
 promising a distraught Murph that he will return. He pilots a shuttle carrying scientists Romilly, Doyle, 
 and Brand’s daughter Amelia to dock with the spacecraft Endurance. The ship is headed towards a wormhole that 
@@ -27,7 +27,7 @@ volunteers, who shared positive reports for habitability. The first planet is an
 waves and no dry land. Doyle drowns, and Amelia and Cooper fly back to the Endurance, only to find that decades 
 have passed due to the time slippage caused by the planet's proximity to Gargantua. Romilly, having remained onboard, 
 has aged twenty-three years. Cooper replays messages from Earth, learning that Murph is now his age and has become a 
-scientist working with Brand.
+*scientist* working with Brand.
 
 The crew journey to the second planet, where its previous investigator, Mann, falsified data to ensure a NASA mission 
 to his planet so he could be rescued. Romilly is killed by Mann's booby-trap, and Mann attempts to hijack the Endurance 
